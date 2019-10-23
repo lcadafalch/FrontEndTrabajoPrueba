@@ -1,0 +1,24 @@
+body{
+  margin-top:15%;
+  margin-right:10%;
+  background-color:rgb(238, 238, 238);
+}
+.carta{
+ border-radius:5%;
+ -webkit-box-shadow: 10px 17px 27px -9px rgba(0,0,0,0.75);
+ -moz-box-shadow: 10px 17px 27px -9px rgba(0,0,0,0.75);
+ box-shadow: 10px 17px 27px -9px rgba(0,0,0,0.75);
+
+}
+.textoFormulario{
+margin-top:5%;
+margin-bottom: 5%;
+}
+.botonSearch{
+margin-top:17%;
+
+}
+.loginusuario{
+    margin-top:10%;
+    margin-right:5%;
+}
